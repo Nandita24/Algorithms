@@ -17,7 +17,7 @@
         dd/mm/yyyy> and display as <name, dd, mm, yyyy> using StringTokenizer class 
         considering the delimiter character as “/”. 
         
-3.a. Write a Java program to read two integers a andb. Compute a/b and print, when b is not zero. 
+3.a. Write a Java program to read two integers a and b. Compute a/b and print, when b is not zero. 
       Raise an exception when b is equal to zero. 
    b. Write a Java program that implements a multi-thread application that has three threads. First 
       thread generates a random integer for every 1 second; second thread computes the square of 
